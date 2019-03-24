@@ -1,0 +1,460 @@
+NAG_Code,NAG_Name,First Observed Year,Last Observed Year,Status in 2010,Lifespan (in years)
+1,Khmer Issarak,1945,1953,Dead,9
+2,PLA,1945,1949,Dead,5
+3,DSE,1946,1949,Dead,4
+4,Indonesian People's Army,1945,1949,Dead,5
+5,KDPI,1945,1996,Dead,52
+6,Republic of Azerbaijan,1945,1945,Dead,1
+7,IZL [Etzel],1945,1948,Dead,4
+8,Lao Issara,1946,1953,Dead,8
+9,Huk,1945,1967,Dead,23
+10,CPP,1974,2010,Alive,Null
+11,"Military Faction (forces of Honasan, Abenina & Zumel)",1986,1990,Dead,5
+12,Forest Brothers,1945,1956,Dead,12
+13,LNPA,1945,1956,Dead,12
+14,LTS(p)A,1945,1946,Dead,2
+15,BDPS,1946,1951,Dead,6
+16,UPA,1945,1950,Dead,6
+17,Viet minh,1945,1954,Dead,10
+18,Taiwanese insurgents,1947,1947,Dead,1
+19,CPI,1945,1951,Dead,7
+20,MDRM,1945,1947,Dead,3
+21,KNU,1947,2010,Alive,Null
+22,God's army,1997,2000,Dead,4
+23,CPB,1946,1988,Dead,43
+24,CPB-RF,1946,1970,Dead,25
+25,"""PVO - """"White Band"""" faction""",1946,1953,Dead,8
+26,ABSDF,1988,1994,Dead,7
+27,ARIF,1986,1992,Dead,7
+28,RSO,1982,1994,Dead,13
+29,MFL-MUF,1947,1951,Dead,5
+30,MPF,1952,1958,Dead,7
+31,NMSP,1958,1995,Dead,38
+32,BMA,1996,1996,Dead,1
+33,CPI-ML,1969,1971,Dead,3
+34,PWG,1980,2004,Dead,25
+35,MCC,1969,2004,Dead,36
+36,CPI-Maoist,2004,2010,Alive,Null
+37,CPM,1945,1989,Dead,45
+38,Opposition coalition,1948,1948,Dead,1
+39,Royalists,1962,1970,Dead,9
+40,NDF,1976,1982,Dead,7
+41,PNDF,1949,1950,Dead,2
+42,KIO/KIA,1961,2010,Alive,Null
+46,PFLP,1967,2001,Dead,35
+47,PFLP-GC,1968,1989,Dead,22
+48,Fatah,1957,2007,Dead,51
+49,PIJ,1979,2010,Alive,Null
+50,Hamas,1987,2010,Alive,Null
+52,AMB,2000,2004,Dead,5
+54,Tibet,1950,1979,Dead,30
+55,Republic of South Moluccas,1950,1966,Dead,17
+56,Military faction (Navy),1951,1951,Dead,1
+57,CPT,1945,1982,Dead,38
+58,Darul Islam,1948,1961,Dead,14
+59,Permesta movement,1958,1961,Dead,4
+60,PRRI,1958,1961,Dead,4
+61,EOKA,1955,1959,Dead,5
+62,FNL,1954,1975,Dead,22
+63,NNC,1947,1975,Dead,29
+64,NSCN - IM,1980,2010,Alive,Null
+65,NSCN - K,1988,2010,Alive,Null
+66,KNPP/KA,1957,2005,Dead,49
+67,State of Oman/Free Oman,1957,1957,Dead,1
+68,Military Faction (Free Officers Movement),1958,1958,Dead,1
+69,Military faction (forces of Abdul Wahab al-Shawaf),1959,1959,Dead,1
+70,Military faction (forces of Abd as-Salam Arif),1963,1963,Dead,1
+71,NCRC,1963,1963,Dead,1
+72,SCIRI,1982,1996,Dead,15
+73,Al-Mahdi Army,2003,2008,Dead,6
+74,Ansar al-Islam,2003,2010,Alive,Null
+75,ISI,2006,2010,Alive,Null
+77,Independent Nasserite Movement /Mourabitoun militia,1958,1958,Dead,1
+78,LNM,1969,1992,Dead,24
+79,LAA,1976,1976,Dead,1
+80,Amal,1974,1988,Dead,15
+82,Lebanese Forces - Hobeika faction,1985,1986,Dead,2
+83,Lebanese Army (Aoun),1989,1990,Dead,2
+84,Lebanese Forces,1976,1992,Dead,17
+86,Neutralists,1960,1975,Dead,16
+87,LRM,1976,1990,Dead,15
+88,NSH,1959,1959,Dead,1
+89,SSIA,1960,1961,Dead,2
+90,SNUF,1961,1963,Dead,3
+91,SSA,1964,1973,Dead,10
+92,SSNLO,1967,1970,Dead,4
+93,SURA,1969,1983,Dead,15
+94,SSRA,1976,1976,Dead,1
+95,TRC,1984,1984,Dead,1
+96,MTA,1985,1995,Dead,11
+97,RCSS/SSA-S,1986,2010,Alive,Null
+98,Nepali Congress,1950,1962,Dead,13
+99,CPN-M,1996,2006,Dead,11
+100,OAS,1961,1962,Dead,2
+101,KDP,1946,1991,Dead,46
+102,PUK,1975,1996,Dead,22
+103,KDP-QM,1975,1978,Dead,4
+104,North Kalimantan Liberation Army,1962,1963,Dead,2
+105,CCO,1954,1966,Dead,13
+106,FLOSY,1963,1967,Dead,5
+107,OPM,1965,1998,Dead,34
+108,MNF,1961,1986,Dead,26
+109,Military faction (forces loyal to Nureddin Atassi and Youssef Zeayen),1966,1966,Dead,1
+110,Muslim Brotherhood,1945,1982,Dead,38
+111,KR,1967,1998,Dead,32
+112,KNUFNS,1978,1979,Dead,2
+113,KPNLF,1979,1991,Dead,13
+114,FUNCINPEC,1981,1997,Dead,17
+115,MIM,1968,1971,Dead,4
+116,MNLF,1972,1993,Dead,22
+117,MILF,1984,2010,Alive,Null
+118,ASG,1991,2010,Alive,Null
+119,MNLF - NM,2001,2002,Dead,2
+120,MNLF - HM,2007,2007,Dead,1
+121,Mukti Bahini,1971,1971,Dead,1
+122,JVP,1967,1990,Dead,24
+123,PIRA,1969,2005,Dead,37
+124,RIRA,1997,2010,Alive,Null
+125,PFLO,1966,1975,Dead,10
+126,JSS/SB,1973,1997,Dead,25
+127,BLA,2002,2010,Alive,Null
+128,Baluch Ittehad,2003,2010,Alive,Null
+129,BRA,2006,2010,Alive,Null
+130,Fretilin,1974,1999,Dead,26
+131,PDPA,1965,1978,Dead,14
+132,Jam'iyyat-i Islami-yi Afghanistan,1970,2001,Dead,32
+133,Harakat-i Inqilab-i Islami-yi Afghanistan,1980,1989,Dead,10
+134,Hizb-i Islami-yi Afghanistan - Khalis faction,1979,1996,Dead,18
+135,Jabha-yi Nijat-i Milli-yi Afghanistan,1978,1992,Dead,15
+136,Mahaz-i Milli-yi Islami-yi Afghanistan,1979,1992,Dead,14
+137,Ittihad-i Islami Bara-yi Azadi-yi Afghanistan,1980,1992,Dead,13
+138,Harakat-i Islami-yi Afghanistan,1978,2001,Dead,24
+139,Hizb-i Islami-yi Afghanistan,1975,2010,Alive,Null
+140,Hizb-i Wahdat,1989,2001,Dead,13
+141,Military faction (forces of Shahnawaz Tanay),1990,1991,Dead,2
+142,Junbish-i Milli-yi Islami,1992,2010,Alive,Null
+143,Taleban,1994,2010,Alive,Null
+144,UIFSA,1996,2001,Dead,6
+145,TNV,1978,1988,Dead,11
+146,ATTF,1990,2010,Alive,Null
+147,NLFT,1989,2010,Alive,Null
+148,MEK,1965,2001,Dead,37
+149,PJAK,2004,2010,Alive,Null
+150,Jondullah,2002,2010,Alive,Null
+151,APCO,1979,1980,Dead,2
+152,JSM,1965,1979,Dead,15
+153,ETA,1959,2010,Alive,Null
+154,PLA,1978,2010,Alive,Null
+155,UNLF,1964,2009,Dead,46
+156,KNF,1988,2010,Alive,Null
+157,KCP,1980,2009,Dead,30
+158,PREPAK,1977,2010,Alive,Null
+159,Sikh insurgents,1980,1993,Dead,14
+160,LTTE,1972,2010,Alive,Null
+161,TELO,1974,1987,Dead,14
+162,EPRLF,1980,1989,Dead,10
+163,PKK,1978,2010,Alive,Null
+164,Yemenite Socialist Party - Abdul Fattah Ismail faction,1986,1986,Dead,1
+165,Kashmir Insurgents,1984,2010,Alive,Null
+166,ULFA,1979,2010,Alive,Null
+167,GAM,1976,2006,Dead,31
+168,BRA,1988,1997,Dead,10
+169,NSF,1989,1989,Dead,1
+171,APF,1990,1990,Dead,1
+172,National Guard and Mkhedrioni,1989,1992,Dead,4
+173,Zviadists,1992,1993,Dead,2
+174,Devrimci Sol,1978,2010,Alive,Null
+175,MKP,1987,2010,Alive,Null
+176,Republic of Slovenia,1991,1991,Dead,1
+177,Republic of Croatia,1991,1991,Dead,1
+178,Republic of Nagorno-Karabakh,1988,2010,Alive,Null
+179,Serbian Republic of Bosnia-Herzegovina,1991,1995,Dead,5
+180,Serbian Republic of Krajina,1991,1995,Dead,5
+181,al-Gama'a al-Islamiyya,1973,1998,Dead,26
+182,Republic of Abkhazia,1992,1993,Dead,2
+183,Republic of South Ossetia,1991,2008,Dead,18
+184,PMR,1990,1992,Dead,3
+185,UTO,1992,1998,Dead,7
+186,Forces of Khudoberdiyev,1998,1998,Dead,1
+187,Military faction (forces of Suret Husseinov),1993,1993,Dead,1
+188,OPON forces,1995,1995,Dead,1
+189,Autonomous Province of Western Bosnia,1993,1995,Dead,3
+190,Croatian Republic of Bosnia-Herzegovina,1991,1994,Dead,4
+191,Parliamentary forces,1993,1993,Dead,1
+192,Chechen Republic of Ichkeria,1991,2007,Dead,17
+193,Democratic Republic of Yemen,1994,1994,Dead,1
+194,MQM,1984,2010,Alive,Null
+195,TNSM,1989,2010,Alive,Null
+196,TTP,2007,2010,Alive,Null
+197,UCK,1992,1999,Dead,8
+198,Wahhabi movement of the Buinaksk district,1999,1999,Dead,1
+199,IMU,1998,2010,Alive,Null
+200,JIG,2002,2010,Alive,Null
+201,UCK,1996,2001,Dead,6
+202,ABSU,1967,2010,Alive,Null
+203,NDFB,1986,2010,Alive,Null
+204,UWSA,1997,1997,Dead,1
+205,Patani insurgents,1965,2010,Alive,Null
+206,Hezbollah,1982,2006,Dead,25
+207,Forces of the Caucasus Emirate,2007,2010,Alive,Null
+208,DHD - BW,2004,2009,Dead,6
+209,PULF,1993,2010,Alive,Null
+210,Croatian irregulars,1993,1994,Dead,2
+211,Serbian irregulars,1992,1995,Dead,4
+212,Lashkar-e-Islam,2004,2010,Alive,Null
+213,Mau Mau,1952,1960,Dead,9
+214,Istiqlal,1945,1956,Dead,12
+215,National Liberation Army,1953,1956,Dead,4
+216,FLN,1954,1962,Dead,9
+217,MNA,1954,1957,Dead,4
+218,MPLA,1956,1974,Dead,19
+219,State of Katanga,1960,1962,Dead,3
+220,Independent Mining State of South Kasai,1960,1962,Dead,3
+221,Military faction (forces of Mengistu Neway),1960,1960,Dead,1
+222,EPRP,1972,1987,Dead,16
+223,TPLF,1975,1988,Dead,14
+224,EDU,1975,1978,Dead,4
+225,EPDM,1980,1985,Dead,6
+226,Military faction (forces of Amsha Desta and Merid Negusie),1989,1989,Dead,1
+227,EPRDF,1989,1991,Dead,3
+228,ELF,1958,1980,Dead,23
+229,EPLF,1970,1991,Dead,22
+230,PAIGC,1956,1973,Dead,18
+231,Anya Nya,1963,1972,Dead,10
+232,CNL,1964,1965,Dead,2
+233,Opposition militias,1967,1967,Dead,1
+234,FLNC,1974,1978,Dead,5
+235,AFDL,1996,1997,Dead,2
+236,MLC,1998,2001,Dead,4
+237,RCD,1998,2001,Dead,4
+238,CNDP,2004,2008,Dead,5
+239,Military faction (forces loyal to L�on M'Ba),1964,1964,Dead,1
+240,Frelimo,1962,1974,Dead,13
+241,Military faction (forces loyal to Gervais Nyangoma),1965,1965,Dead,1
+242,Palipehutu,1991,1992,Dead,2
+244,Palipehutu-FNL,1993,2008,Dead,16
+245,Frolina,1990,2000,Dead,11
+246,CNDD-FDD,1994,2003,Dead,10
+247,Frolinat,1966,1979,Dead,14
+248,First Liberation Army,1969,1972,Dead,4
+249,Second Liberation Army,1969,1979,Dead,11
+250,FAN,1976,1982,Dead,7
+251,FAP,1977,1986,Dead,10
+252,FAT,1975,1982,Dead,8
+253,GUNT,1979,1987,Dead,9
+254,Islamic Legion,1972,1990,Dead,19
+255,Revolutionary Forces of 1 April,1989,1989,Dead,1
+256,MOSANAT,1986,1989,Dead,4
+257,MPS,1990,1990,Dead,1
+258,MDD,1991,1997,Dead,7
+259,CNR,1992,1997,Dead,6
+260,CSNPD,1991,1994,Dead,4
+261,Military faction (forces of Maldoum Bada Abbas),1991,1991,Dead,1
+262,FNT,1980,1997,Dead,18
+263,FARF,1994,1998,Dead,5
+264,MDJT,1998,2010,Alive,Null
+265,FUCD,2005,2006,Dead,2
+266,RAFD,2006,2007,Dead,2
+267,CDR,1980,1987,Dead,8
+268,UFDD,2006,2009,Dead,4
+269,NLC,1966,1966,Dead,1
+270,Military faction (forces of Jerry John Rawlings),1981,1981,Dead,1
+271,Military faction (forces of Ekow Dennis and Edward Adjei-Ampofo),1983,1983,Dead,1
+272,Military faction (forces of Patrick Nzeogwu),1964,1966,Dead,3
+273,SWAPO,1960,1990,Dead,31
+274,Republic of Biafra,1966,1970,Dead,5
+275,RFDG,2000,2001,Dead,2
+276,Sudanese Communist Party,1956,1971,Dead,16
+277,Islamic Charter Front,1964,1976,Dead,13
+278,SPLM/A,1982,2004,Dead,23
+279,NDA,1989,2005,Dead,17
+280,JEM,2003,2010,Alive,Null
+281,SLM/A,2003,2010,Alive,Null
+282,NRF,2006,2006,Dead,1
+283,SLM/A - MM,2005,2010,Alive,Null
+284,SLM/A-Unity,2006,2010,Alive,Null
+285,Monima,1971,1971,Dead,1
+286,Military faction (forces of Mohamed Madbouh),1971,1971,Dead,1
+287,Military faction (forces of Idi Amin),1971,1971,Dead,1
+288,Kikosi Maalum,1972,1979,Dead,8
+289,Military faction (forces of Charles Arube),1974,1974,Dead,1
+290,Fronasa,1972,1979,Dead,8
+291,UNLF,1979,1979,Dead,1
+292,FUNA,1979,1981,Dead,3
+293,NRA,1981,1986,Dead,6
+294,UNRF,1980,1985,Dead,6
+295,HSM,1986,1987,Dead,2
+296,UPDA,1986,1988,Dead,3
+297,UFM,1981,1982,Dead,2
+298,UPA,1987,1992,Dead,6
+300,LRA,1987,2010,Alive,Null
+301,ADF,1996,2010,Alive,Null
+302,WNBF,1995,1998,Dead,4
+303,UNRF II,1996,2002,Dead,7
+304,ZAPU,1961,1980,Dead,20
+305,ZANU,1963,1980,Dead,18
+306,PF,1976,1980,Dead,5
+307,EIJM - AS,1980,2003,Dead,24
+308,WSLF,1975,1976,Dead,2
+309,ONLF,1984,2010,Alive,Null
+310,Renamo,1976,1992,Dead,17
+311,SSDF,1978,1984,Dead,7
+312,SNM,1981,1991,Dead,11
+313,SPM,1989,1991,Dead,3
+314,USC/SSA,1989,1991,Dead,3
+315,USC/SNA,1991,1996,Dead,6
+316,SRRC,2001,2004,Dead,4
+317,ARS/UIC,2006,2008,Dead,3
+318,Military faction (forces of Samuel Doe),1980,1980,Dead,1
+319,NPFL,1988,1997,Dead,10
+320,INPFL,1990,1992,Dead,3
+321,LURD,1999,2003,Dead,5
+322,MODEL,2003,2003,Dead,1
+323,R�sistance Arm�e Tunisienne,1980,1980,Dead,1
+324,NRC,1981,1981,Dead,1
+325,ANC,1961,1993,Dead,33
+326,Military faction (forces of Hezekiah Ochuka),1982,1982,Dead,1
+327,Military faction (forces of Ibrahim Saleh),1984,1984,Dead,1
+328,MTD,1986,1986,Dead,1
+329,Popular Front,1987,1987,Dead,1
+330,Presidential guard,1989,1989,Dead,1
+331,ALF,1975,1976,Dead,2
+332,ARDUF,1993,1996,Dead,4
+333,MPA,2000,2010,Alive,Null
+334,FIAA,1991,1994,Dead,4
+335,ATNMC,2007,2009,Dead,3
+336,FLAA,1991,1995,Dead,5
+337,CRA,1993,1994,Dead,2
+338,UFRA,1996,1997,Dead,2
+339,FPR,1992,1994,Dead,3
+340,FDLR,2000,2010,Alive,Null
+341,MFDC,1982,2010,Alive,Null
+342,FRUD,1991,1994,Dead,4
+343,FRUD - AD,1994,1999,Dead,6
+344,RUF,1982,2001,Dead,20
+345,AFRC,1997,2000,Dead,4
+347,WSB,1997,2000,Dead,4
+348,Takfir wa'l Hijra,1971,1991,Dead,21
+349,AIS,1992,1997,Dead,6
+350,GIA,1992,2003,Dead,12
+351,AQIM,1998,2010,Alive,Null
+352,FLEC-R,1991,2002,Dead,12
+353,FLEC-FAC,1975,2010,Alive,Null
+354,AIAI,1993,1999,Dead,7
+355,FDR,1994,1999,Dead,6
+356,MPA/Republic of Anjouan,1997,1997,Dead,1
+357,Cobras,1993,1997,Dead,5
+358,Ninjas,1993,2003,Dead,11
+359,Cocoyes,1993,2000,Dead,8
+360,Ntsiloulous,1998,2002,Dead,5
+361,"Military Junta for the Consolidation of Democracy, Peace and Justice",1998,1999,Dead,2
+362,Military faction,1998,1998,Dead,1
+363,OLF,1973,2010,Alive,Null
+364,Military faction (forces of Andr� Kolingba),2001,2001,Dead,1
+365,Forces of Francois Bozize,2001,2003,Dead,3
+366,UFDR,2006,2010,Alive,Null
+367,MJP,2002,2003,Dead,2
+368,MPCI,2002,2002,Dead,1
+369,MPIGO,2002,2003,Dead,2
+371,Ahlul Sunnah Jamaa,2003,2004,Dead,2
+372,NDPVF,2003,2004,Dead,2
+373,BDK,1969,2008,Dead,40
+374,MNJ,2007,2010,Alive,Null
+375,POLISARIO,1973,1978,Dead,6
+376,UPC,1948,1961,Dead,14
+377,NLA,1956,1958,Dead,3
+378,FNLA,1962,1979,Dead,18
+379,UNITA,1966,2002,Dead,37
+380,AN,2008,2010,Alive,Null
+381,Al-Shabaab,2006,2010,Alive,Null
+382,Harakat Ras Kamboni,2007,2009,Dead,3
+383,Popular Revolutionary Movement,1946,1946,Dead,1
+384,MNR,1952,1952,Dead,1
+385,ELN,1966,1967,Dead,2
+386,"Opposition coalition (Febreristas, Liberals and Communists)",1947,1947,Dead,1
+387,Military faction (forces of Alfredo Stroessner),1954,1954,Dead,1
+388,Military faction (forces of Andres Rodriguez),1989,1989,Dead,1
+389,National Liberation Army,1948,1948,Dead,1
+390,Military faction,1949,1949,Dead,1
+391,Forces of Carlos Castillo Armas,1954,1954,Dead,1
+392,FAR I,1962,1981,Dead,20
+393,FAR II,1968,1981,Dead,14
+394,EGP,1972,1981,Dead,10
+395,ORPA,1971,1981,Dead,11
+396,URNG,1982,1995,Dead,14
+397,Puerto Rican Nationalist Party,1945,1954,Dead,10
+398,M-26-7,1953,1958,Dead,6
+399,Cuban Revolutionary Council,1961,1961,Dead,1
+400,Military faction (forces of Eduardo A. Lonardi Doucet),1955,1955,Dead,1
+401,Military faction (Colorados),1962,1963,Dead,2
+402,ERP,1970,1977,Dead,8
+403,Montoneros,1970,1977,Dead,8
+404,Military faction (navy),1962,1962,Dead,1
+405,Bandera Roja,1969,1982,Dead,14
+406,Military faction (forces of Hugo Ch�vez),1992,1992,Dead,1
+407,FARC,1964,2010,Alive,Null
+408,ELN,1962,2010,Alive,Null
+409,M-19,1970,1990,Dead,21
+410,EPL,1966,2010,Alive,Null
+411,Military faction (Constitutionalists),1965,1965,Dead,1
+412,ELN,1962,1965,Dead,4
+413,MIR,1962,1965,Dead,4
+414,Sendero Luminoso,1970,2010,Alive,Null
+415,MRTA,1982,1997,Dead,16
+416,Military faction (forces of Benjamin Mejia),1972,1972,Dead,1
+417,ERP,1972,1992,Dead,21
+418,FPL,1970,1992,Dead,23
+419,FMLN,1980,1991,Dead,12
+420,MLN/Tupamaros,1966,1972,Dead,7
+421,"Military faction (forces of Augusto Pinochet, Toribio Merino and Leigh Guzman)",1973,1973,Dead,1
+422,FSLN,1961,1979,Dead,19
+423,Contras/FDN,1981,1990,Dead,10
+424,SLA,1986,1992,Dead,7
+425,Military faction (forces of Mois�s Giroldi),1989,1989,Dead,1
+426,Jamaat al-Muslimeen,1969,2010,Alive,Null
+427,Military faction (forces of Himmler Rebu and Guy Francois),1989,1989,Dead,1
+428,Military faction (forces of Raol C�dras),1991,1991,Dead,1
+429,FLRN,2004,2004,Dead,1
+430,OP Lavalas (Chim�res),2004,2004,Dead,1
+431,EZLN,1994,1994,Dead,1
+432,EPR,1996,1996,Dead,1
+433,al-Qaida,1988,2010,Alive,Null
+434,PBCP,1968,2010,Alive,Null
+435,MNDAA,1989,2009,Dead,21
+436,AQAP,2009,2010,Alive,Null
+437,LNUP,1973,1982,Dead,10
+438,KNUP,1948,1975,Dead,28
+439,Hizbul-Islam,2009,2010,Alive,Null
+440,ALP,1971,1977,Dead,7
+441,ANLP,1960,1972,Dead,13
+442,APLP,1946,1957,Dead,12
+443,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2002,2010,Alive,Null
+444,CPA,1962,1973,Dead,12
+445,CPJP,2008,2010,Alive,Null
+446,SALF,1976,1979,Dead,4
+447,SLM,1976,1983,Dead,8
+448,Ogaden Liberation Front,1963,1964,Dead,2
+449,Mujahid Party,1948,1963,Dead,16
+450,NDFB - RD,2008,2010,Alive,Null
+452,RPF,1973,1978,Dead,6
+453,UFR,2009,2009,Dead,1
+455,DKBA 5,2010,2010,Alive,Null
+457,PFNR,2007,2010,Alive,Null
+458,Military faction (forces of Samuel Toranzo Calder�n),1955,1955,Dead,1
+459,IGLF,1991,1991,Dead,1
+466,ALiR,1996,2000,Dead,5
+470,ETIM,1990,2010,Alive,Null
+477,GNLA,2009,2010,Alive,Null
+479,PBCP-Janajudhha,2003,2010,Alive,Null
+480,BLF,1964,2010,Alive,Null
+482,AQIM,2008,2010,Alive,Null
+483,CPM,1945,1989,Dead,45
+484,FNLA,1962,1974,Dead,13
+485,IMU,1998,2010,Alive,Null
+486,NLA,1957,1958,Dead,2
+487,POLISARIO,1973,1989,Dead,17
+488,Serbian irregulars,1992,1992,Dead,1
+489,SSDM/A,2010,2010,Alive,Null
+491,UNITA,1966,1967,Dead,2
+492,UPC,1948,1959,Dead,12
+493,Pathet Lao,1951,1973,Dead,23
